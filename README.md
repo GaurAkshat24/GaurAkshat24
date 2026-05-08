@@ -53,8 +53,8 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gaur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshatgaur)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gaur-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaur2401)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:akshat.akshat.gaur24@gmail.com)
 
 ---
 
