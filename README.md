@@ -1,20 +1,61 @@
-<h1 align="center">Hi 👋, I'm Akshat Gaur</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+# Hi, I'm Akshat Gaur 👋
 
-- 🔭 I’m currently working on **Developed and managed multiple websites, including [www.righttoenlightenment.org] (http://www.righttoenlightenment.org), [www.gyanamsuvigyanam.com](http://www.gyanamsuvigyanam.com), and [www.citizenchannels.org](http://www.citizenchannels.org), resulting in increased online presence and engagement with the target audience. Implemented AI-powered video campaigns to raise awareness of spiritual literacy, resulting in a 50% increase in video views and a 30% increase in social media shares.**
+**AI/ML Engineer · LLM Applications · RAG Pipelines · AI Agents**
 
-- 🌱 I’m currently learning **NLP Techniques**
+4+ years building production-grade AI systems — from enterprise RAG platforms to autonomous agents — deployed on GCP and Azure, serving 100k+ users.
 
-- 🤝 I’m looking for help with **Data Science Opportunities**
+---
 
-- 📫 How to reach me **akshat.akshat.gaur24@gmail.com**
+## 🔧 What I Work On
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaur2401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaur2401" height="30" width="40" /></a>
-</p>
+- **LLM Applications** — prompt engineering, structured output validation, multi-step reasoning chains
+- **RAG Pipelines** — vector DB design, retrieval optimization, hybrid search
+- **AI Agents** — autonomous task execution, tool-use orchestration, LangChain workflows
+- **MLOps** — reproducible training pipelines, model serving, cloud-native deployments
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurakshat24&show_icons=true&locale=en&layout=compact" alt="gaurakshat24" /></p>
+## 🛠 Tech Stack
+
+**Languages**
+`Python` `SQL` `C/C++` `React.js` `Node.js`
+
+**AI / ML**
+`LLMs` `RAG` `LangChain` `Pinecone` `Transformers` `CNNs` `Reinforcement Learning`
+
+**Frameworks**
+`PyTorch` `TensorFlow` `Scikit-learn` `FastAPI`
+
+**Cloud & DevOps**
+`GCP` `Azure` `Docker` `REST APIs` `Microservices`
+
+**Tools**
+`Git` `MongoDB Atlas` `Postman`
+
+---
+
+## 📌 Highlights
+
+- Improved query accuracy by **25%** across enterprise LLM deployments via RAG optimization
+- Cut retrieval latency by **30%** with vector DB pipeline redesign
+- Built AI-powered knowledge automation agents reducing manual workloads by **30%**
+- Deployed AI support bots achieving **95%+ accuracy** in customer interactions for 100k+ users
+- Reduced API latency by **35%** across REST-based microservices handling 10k+ daily requests
+
+---
+
+## 🎓 Certifications
+
+- Google Cloud Professional Data Engineer
+- Python for Data Science & Machine Learning
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gaur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/akshatgaur)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your@email.com)
+
+---
+
+*Currently @ Occams Advisory — leading RAG and LLM product initiatives*
